@@ -33,3 +33,5 @@ console.log(`type of mySymbol is ${typeof mySymbol}`);
 
 let myNull = null;
 console.log(`type of myNull is ${typeof myNull}`);
+
+console.log('Good bye!');
